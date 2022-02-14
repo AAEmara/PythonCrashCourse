@@ -1,0 +1,4 @@
+#My Ideas about problems I would like to solve with programming.
+- Build HR attendance and non-attendance models.
+- Creating a registeration module for a website.
+- Building a script that answers user's questions about data.
