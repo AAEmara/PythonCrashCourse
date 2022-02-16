@@ -7,7 +7,8 @@ programming_words = {
     'for': 'a loop statement that iterates over a set of elements',
     'list': 'a function that creates a list'
     }
-
+    
+# Printing the values as a definition for the keys.
 print(f"print: {programming_words['print']}")
 print(f"\nrange: {programming_words['range']}")
 print(f"\nif: {programming_words['if']}")
