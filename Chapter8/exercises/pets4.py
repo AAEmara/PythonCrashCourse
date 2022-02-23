@@ -6,4 +6,4 @@ def describe_pet(animal_type, pet_name):
 
 # Using the function with Keyword Arguments.
 # (name-value pair arguments, where order doesn't matter)
-describe_pet(pet_name = "sushi", animal_type = "cat")
+describe_pet(pet_name ="sushi", animal_type ="cat")
