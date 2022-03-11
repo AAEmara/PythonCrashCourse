@@ -1,0 +1,11 @@
+In Python you can save values in variables
+In Python you can format strings
+In Python you can use different datatypes
+In Python you can save data in lists, dictionaries and tuples as a different data structures
+In Python you can use for and while loops for iteration
+In Python you can input() function to take user inputs
+In Python you can use if, if-else, if-elif and if-elif-else chain statements
+In Python you can define your own functions
+In Python you can create your own classes
+In Python you can use methods and attributes of different classes
+In Python you can use inheritance for a new class so you could use the previous attributes and methods
